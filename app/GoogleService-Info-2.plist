@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>391568877127-qgc1aa1dmcbkkajl3ohisea3e1l3kgq7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.391568877127-qgc1aa1dmcbkkajl3ohisea3e1l3kgq7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>391568877127-12r5or4bucrspt626nrkhlunpr3igjes.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZ_rV1MFIGRMXoNjDjsAkTTT32wdxo-FA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>391568877127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.moto.ease</string>
+	<key>PROJECT_ID</key>
+	<string>motoease-11396</string>
+	<key>STORAGE_BUCKET</key>
+	<string>motoease-11396.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:391568877127:ios:3edd5d1004cac3631df362</string>
+	<key>DATABASE_URL</key>
+	<string>https://motoease-11396-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

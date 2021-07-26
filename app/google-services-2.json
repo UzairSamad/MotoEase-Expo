@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391568877127",
+    "firebase_url": "https://motoease-11396-default-rtdb.firebaseio.com",
+    "project_id": "motoease-11396",
+    "storage_bucket": "motoease-11396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391568877127:android:dad8ce08220def901df362",
+        "android_client_info": {
+          "package_name": "com.moto.ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391568877127-12r5or4bucrspt626nrkhlunpr3igjes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moto.ease",
+            "certificate_hash": "3b6a269a860944082524f3dcdb0cef0ac30085ff"
+          }
+        },
+        {
+          "client_id": "391568877127-noqj8952vbjv4ejegfp6bn7qqp926bjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9LU28aOBFsSTmBlHh-sNY-DtJwSV9YfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391568877127-noqj8952vbjv4ejegfp6bn7qqp926bjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391568877127-ticfbq3031pt2dqu893366dgo2uan7jr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.motoease.motoease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

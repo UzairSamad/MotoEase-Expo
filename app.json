@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "MotoEase",
+    "slug": "MotoEase",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.moto.ease",
+      
+      "icon": "./assets/icon.png",
+      "buildNumber": "1.0.1",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.moto.ease",
+      "versionCode": 2,
+      "googleServicesFile": "./app/google-services-2.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "bugsnag": {
+        "apiKey": "b466d9c22ffa12eb21d5d6d4a298736c"
+      }
+    }
+  }
+}
